@@ -1,0 +1,9 @@
+# Binaries and object files
+*.o
+*.out
+*.exe
+build/
+bin/
+
+# VS Code environment artifacts
+.vscode/.studio/
